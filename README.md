@@ -6,7 +6,7 @@ pip3 install bs4
 ```
 **Usage**
 ```
-bgp_search.py [-h] -s SEARCH
+python3 bgp_search.py [-h] -s SEARCH
 
 A small script which allows to search for netblocks on bgp.tools
 
