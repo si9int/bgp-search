@@ -18,6 +18,8 @@ optional arguments:
 
 **Output**
 ```
+$ python3 untitled2.py -s "DoD"
+---
 [!] Result | IPv4
 
 	+ 156.112.142.0/24    (DoD Network Information Center)
