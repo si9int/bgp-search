@@ -18,7 +18,7 @@ optional arguments:
 
 **Output**
 ```
-$ python3 untitled2.py -s "DoD"
+$ python3 bgp_search.py -s "DoD"
 ---
 [!] Result | IPv4
 
