@@ -1,5 +1,5 @@
 ## BGP Search
-A quick Python wrapper for searching on https://bgp.tools  
+A Python wrapper for searching on https://bgp.tools. Useful for recon.
 - Requires "BeautifulSoup"
 ```
 pip3 install bs4
